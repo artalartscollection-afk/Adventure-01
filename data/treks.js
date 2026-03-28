@@ -8,8 +8,8 @@ const trekData = [
     difficulty: 'Moderate to Difficult',
     region: 'the Himalayas',
     startPoint: 'Lohajung',
-    image: 'img/treks/roopkund.png',
-    gallery: ['img/gallery/roopkund.png', 'img/gallery/mountain-river.png', 'img/gallery/himalaya-camp.png'],
+    image: 'img/treks/roopkund.webp',
+    gallery: ['img/gallery/roopkund.webp', 'img/gallery/mountain-river.webp', 'img/gallery/himalaya-camp.webp'],
     description: 'The Roopkund Trek in the Himalayas is one of the most iconic Himalayan adventures, famously known for the mystery of the "Skeleton Lake." Tucked away at 16,000 feet within the Nanda Devi Biosphere Reserve, this trek provides a unique blend of eerie legends and profound natural beauty. Trekkers travel through some of the largest high-altitude meadows in Asia, Ali and Bedni Bugyal, which offer front-row seats to the massive Mt. Trishul and Nanda Ghunti peaks. The trail winds through dense forests of oak and rhododendron, eventually ascending into alpine zones where the landscape transforms into a dramatic, rocky wonderland.',
     itinerary: [
       { day: 1, title: 'Basecity to Lohajung', details: 'Approx 300km drive, 10-11 hours through scenic mountain roads.' },
@@ -33,8 +33,8 @@ const trekData = [
     difficulty: 'Easy to Moderate',
     region: 'the Himalayas',
     startPoint: 'Lohajung',
-    image: 'img/treks/ali-bedni.png',
-    gallery: ['img/gallery/valley-flowers.png', 'img/gallery/sunrise-peak.png', 'img/gallery/himalaya-camp.png'],
+    image: 'img/treks/ali-bedni.webp',
+    gallery: ['img/gallery/valley-flowers.webp', 'img/gallery/sunrise-peak.webp', 'img/gallery/himalaya-camp.webp'],
     description: 'Ali Bedni Bugyal represents the quintessential Himalayan meadow trek, showcasing two of the most sprawling and beautiful high-altitude meadows (bugyals) in the world. Located in the Chamoli district of the Himalayas, this trail is a dream for photographers and nature lovers alike. As you ascend through ancient forests into the wide-open pastures of Ali Bugyal, the horizon is suddenly dominated by the silver-white ramparts of Mt. Trishul and Nanda Ghunti. During the monsoon months, these meadows transform into a vibrant carpet of wildflowers, while the shoulder seasons offer crisp, clear views of the high peaks.',
     itinerary: [
       { day: 1, title: 'Basecity to Lohajung', details: 'Approx 300km drive, 10-11 hours.' },
@@ -52,8 +52,8 @@ const trekData = [
     difficulty: 'Difficult',
     region: 'the Himalayas',
     startPoint: 'Sankri',
-    image: 'img/treks/bali-pass.png',
-    gallery: ['img/gallery/snow-trek.png', 'img/gallery/mountain-river.png', 'img/gallery/kedarnath.png'],
+    image: 'img/treks/bali-pass.webp',
+    gallery: ['img/gallery/snow-trek.webp', 'img/gallery/mountain-river.webp', 'img/gallery/kedarnath.webp'],
     description: 'Bali Pass is an adrenaline-fueled high-altitude crossover trek that connects the scenic Har Ki Dun valley to the holy site of Yamunotri. It is considered one of the more challenging treks in the region, featuring steep technical climbs, high-altitude passes, and massive snowfields. Along the way, trekkers are rewarded with the stunning beauty of Ruinsara Tal, a pristine alpine lake, and close-up views of the Swargarohini and Bandarpoonch massifs. The final crossing of Bali Pass (16,200 ft) is a trial of endurance that culminates in spectacular panoramic views of the entire Garhwal range.',
     itinerary: [
       { day: 1, title: 'Basecity to Sankri', details: 'Approx 200km drive, 8 hours.' },
@@ -77,8 +77,8 @@ const trekData = [
     difficulty: 'Moderate',
     region: 'the Himalayas',
     startPoint: 'Basecity',
-    image: 'img/treks/gaumukh.png',
-    gallery: ['img/gallery/mountain-river.png', 'img/gallery/sunrise-peak.png', 'img/gallery/himalaya-camp.png'],
+    image: 'img/treks/gaumukh.webp',
+    gallery: ['img/gallery/mountain-river.webp', 'img/gallery/sunrise-peak.webp', 'img/gallery/himalaya-camp.webp'],
     description: 'The Gaumukh Tapovan trek is a profound journey to the very source of the holy River Ganges. Starting from the pilgrimage town of Gangotri, the trail takes you deep into the Gangotri National Park, eventually reaching the snout of the massive Gangotri Glacier, known as Gaumukh. Beyond the glacier lies the vast alpine meadow of Tapovan, an area of immense spiritual importance and natural splendor. Here, you find yourself at the feet of the colossal Bhagirathi peaks and the incredibly sharp Shivling peak, often referred to as the "Matterhorn of India." This trek combines rugged glacial terrain with serene, high-altitude meadows.',
     itinerary: [
       { day: 1, title: 'Basecity to Gangotri', details: 'Drive through beautiful valleys.' },
@@ -101,8 +101,8 @@ const trekData = [
     difficulty: 'Easy to Moderate',
     region: 'the Himalayas',
     startPoint: 'Sankri',
-    image: 'img/gallery/snow-trek.png',
-    gallery: ['img/gallery/snow-trek.png', 'img/gallery/himalaya-camp.png', 'img/gallery/kedarnath.png'],
+    image: 'img/gallery/snow-trek.webp',
+    gallery: ['img/gallery/snow-trek.webp', 'img/gallery/himalaya-camp.webp', 'img/gallery/kedarnath.webp'],
     description: 'Kedarkantha is the crown jewel of winter trekking in the Himalayas. Known for its perfect summit climb and breathtaking campsites, it is the ideal trek for those looking to experience the magic of snow-covered pine forests and high-altitude peaks. The summit of Kedarkantha (12,500 ft) offers an unparalleled 360-degree view of the Great Himalayan ranges, including the Swargarohini, Black Peak, and Bandarpoonch mountains. The campsites at Kedarkantha, especially Juda ka Talab, are amongst the most picturesque in the world, with frozen lakes surrounded by towering trees under a star-studded sky.',
     itinerary: [
       { day: 1, title: 'Basecity to Sankri', details: 'Scenic drive through the mountains.' },
@@ -124,8 +124,8 @@ const trekData = [
     difficulty: 'Moderate',
     region: 'Kashmir',
     startPoint: 'Srinagar',
-    image: 'img/treks/kashmir-lakes.png',
-    gallery: ['img/gallery/mountain-river.png', 'img/gallery/valley-flowers.png', 'img/gallery/sunrise-peak.png'],
+    image: 'img/treks/kashmir-lakes.webp',
+    gallery: ['img/gallery/mountain-river.webp', 'img/gallery/valley-flowers.webp', 'img/gallery/sunrise-peak.webp'],
     description: 'The Kashmir Great Lakes trek is widely regarded as the most beautiful trek in India, offering a visual symphony of seven emerald-blue alpine lakes, sweeping flower-laden meadows, and dramatic high-altitude passes. Every day on this trail reveals a new landscape that feels like it has been plucked straight from a postcard. Trekkers will traverse the vast meadows of Sonamarg, cross the challenging Gadsar and Nichnai passes, and camp besides the pristine waters of Vishansar, Kishansar, and Gangabal lakes. The contrast between the rugged, snow-dusted peaks and the soft, lush greenery of the Kashmir valley creates an unforgettable experience for every adventurer.',
     itinerary: [
       { day: 1, title: 'Srinagar to Sonamarg', details: 'Drive to the base camp.' },
@@ -148,8 +148,8 @@ const trekData = [
     difficulty: 'Easy',
     region: 'Himachal',
     startPoint: 'Manali',
-    image: 'img/gallery/harki-dun.png',
-    gallery: ['img/gallery/mountain-river.png', 'img/gallery/himalaya-camp.png', 'img/gallery/sunrise-peak.png'],
+    image: 'img/gallery/harki-dun.webp',
+    gallery: ['img/gallery/mountain-river.webp', 'img/gallery/himalaya-camp.webp', 'img/gallery/sunrise-peak.webp'],
     description: 'The Beas Kund trek is a short and immensely rewarding adventure that takes you to the very source of the Beas River. Starting from Manali, the trail winds through lush forests of oak and deodar, eventually emerging into the wide-open alpine meadows of Bakarthach. As you reach the emerald waters of Beas Kund, a high-altitude glacial lake at 12,772 ft, you are surrounded by a massive amphitheater of snow peaks including Hanuman Tibba, Ladakhi Peak, and Friendship Peak. This trek provides a remarkable "close-up" experience of the high Himalayas without a month-long commitment.',
     itinerary: [
       { day: 1, title: 'Manali to Solang Valley to Dhundi', details: 'Short drive and trek to the base camp.' },
@@ -168,8 +168,8 @@ const trekData = [
     difficulty: 'Moderate',
     region: 'Himachal',
     startPoint: 'Manali',
-    image: 'img/gallery/himalaya-camp.png',
-    gallery: ['img/gallery/snow-trek.png', 'img/gallery/mountain-river.png', 'img/gallery/kedarnath.png'],
+    image: 'img/gallery/himalaya-camp.webp',
+    gallery: ['img/gallery/snow-trek.webp', 'img/gallery/mountain-river.webp', 'img/gallery/kedarnath.webp'],
     description: 'Hampta Pass is famous for being one of the most dramatic crossover treks in the Himalayas. In just a few days, trekkers transition from the lush, green, and vibrant Kullu Valley with its waterfalls and forests into the stark, dry, and starkly beautiful cold desert of Spiti. Crossing the 14,100 ft pass is as thrilling as it is scenic, offering views of the massive Indrasan peak. The journey culminates with a visit to the ethereal Chandratal Lake (The Moon Lake), a high-altitude gem nestled amidst the rugged Spiti peaks. This trek is perfect for adventurers who love diverse landscapes and stark contrasts.',
     itinerary: [
       { day: 1, title: 'Manali to Jobra to Chika', details: 'Drive and trek through forests.' },
@@ -190,8 +190,8 @@ const trekData = [
     difficulty: 'Difficult',
     region: 'Sikkim',
     startPoint: 'Yuksom',
-    image: 'img/gallery/sunrise-peak.png',
-    gallery: ['img/gallery/sunrise-peak.png', 'img/gallery/mountain-river.png', 'img/gallery/valley-flowers.png'],
+    image: 'img/gallery/sunrise-peak.webp',
+    gallery: ['img/gallery/sunrise-peak.webp', 'img/gallery/mountain-river.webp', 'img/gallery/valley-flowers.webp'],
     description: 'Goechala is Sikkim\'s most legendary trek, taking you deep into the heart of the Khangchendzonga National Park. The trail is renowned for its diverse flora, particularly the vibrant rhododendron forests that explode in color during the spring months. As you reach the high meadows of Dzongri and eventually the Goechala Pass itself (15,100 ft), you\'re granted an intimate, front-row view of the massive Mt. Kanchenjunga—the third highest mountain in the world. Watching the first sunrise light kiss the peaks from the pass is a life-changing experience that every Himalayan trekker dreams of.',
     itinerary: [
       { day: 1, title: 'Arrival at Yuksom', details: 'Acclimatization and briefing.' },
@@ -210,7 +210,7 @@ const blogData = [
     title: 'Ali Bedni Bugyal Trek Route, Itinerary, Travel Tips',
     date: 'March 10, 2024',
     author: 'Mountain Team',
-    image: 'img/blog/ali-bedni.png',
+    image: 'img/blog/ali-bedni.webp',
     excerpt: 'Discover the beauty of the twin meadows Ali and Bedni Bugyal. Here is a complete guide to planning your next adventure.'
   },
   {
@@ -218,7 +218,7 @@ const blogData = [
     title: 'Roopkund Trekking Guide: Everything You Need to Know',
     date: 'Feb 25, 2024',
     author: 'Mountain Team',
-    image: 'img/blog/roopkund.png',
+    image: 'img/blog/roopkund.webp',
     excerpt: 'The mystery of the skeleton lake awaits. Learn about the permissions, difficulty, and best time to visit Roopkund.'
   }
 ];

@@ -89,7 +89,7 @@ function renderHeader() {
 
     header.innerHTML = `
         <div class="container header-container">
-            <a href="index.html" class="logo"><img src="img/logo.png" alt="Mountain Adventure"></a>
+            <a href="index.html" class="logo"><img src="img/logo.webp" alt="Mountain Adventure"></a>
             <nav class="desktop-nav"><ul class="nav-list">${navHTML}</ul></nav>
             <div class="header-actions">
                 <a href="contact.html" class="btn btn-primary" style="padding: 8px 16px; font-size: 0.8rem;">BOOK NOW</a>
@@ -109,7 +109,7 @@ function renderFooter() {
         <div class="container">
             <div class="footer-grid">
                 <div class="footer-col about">
-                    <img src="img/logo.png" alt="Logo" class="footer-logo">
+                    <img src="img/logo.webp" alt="Logo" class="footer-logo">
                     <p>Providing premium Himalayan experiences since 2005.</p>
                 </div>
                 <div class="footer-col links">
